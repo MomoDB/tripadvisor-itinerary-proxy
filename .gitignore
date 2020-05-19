@@ -1,0 +1,8 @@
+/gallery/
+/itinerary/
+/node_modules/
+/reviews/
+/calendar/
+/dist/
+/lib/
+package-lock.json
